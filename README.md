@@ -5,7 +5,6 @@
 This is a modern Firebase Todo App built with React.js by Ifeanyi Omeata.
 
 Watch on Youtube: https://youtu.be/yYDVXV6ah-Q <br>
-Website: https://ifeanyiomeata.com <br>
 
 ## Development Tools/Stack
 
